@@ -24,7 +24,7 @@ and this project adheres to
 - `MemoryWritable` internal buffer size is now limited to 8 MB by default.
 - Signature of `callerFilepath()` to allow passing `RegExp` as depth to be used
   for filtering of stack frames.
-- `cryptoPrefetcher()` to implement Iterator protocol.
+- Return value of `cryptoPrefetcher()` now implements the Iterable interface.
 
 ### Fixed
 
