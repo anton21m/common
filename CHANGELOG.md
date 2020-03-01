@@ -16,6 +16,7 @@ and this project adheres to
   interaction with chained calls.
 - `captureMaxStack()` utility to get maximum available stack trace.
 - Table of contents to documentation.
+- ECMAScript Modules support via importing '@metarhia/common/module'.
 
 ### Changed
 
