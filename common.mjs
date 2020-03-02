@@ -1,4 +1,4 @@
-// This is an automaticaly generated file. DO NOT MODIFY MANUALLY.
+// This is an automatically generated file. DO NOT MODIFY MANUALLY.
 import { createRequire } from 'module';
 
 const require = createRequire(import.meta.url);
